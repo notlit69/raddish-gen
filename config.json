@@ -1,0 +1,31 @@
+{
+    "StreamlabAccountPassword": "*a******A$**H***",
+    
+    "Threads": 10,
+    "Login+PullerThreads": 5,
+    "PullerRetries": 5,
+    "TwitterMergerThreads": 5,
+
+
+    "ScrappeyKey" : "",
+
+
+    "Solver" : {
+        "2Captcha": "",
+        "CapSolver": "",
+        "CapMonster": "",
+        "CustomCFSolver": false
+    },
+
+
+    "AutoLink": false,
+    "GenPromoOnly": true,
+    "AutoPassChange": true,
+    "LinkTwitter": true,
+
+
+    "EmailProvider": "tempgmail",
+    "EmailProviderKey": "",
+    "OTPRetry": 100,
+    "DomainType": "gmail.com"
+}
